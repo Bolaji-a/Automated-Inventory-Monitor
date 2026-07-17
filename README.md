@@ -78,7 +78,7 @@ GMAIL_APP_PASSWORD=your_16_character_app_password
 SMTP_SERVER=smtp.gmail.com
 SMTP_PORT=587
 ```
-*(Note: `.env` is listed inside `.gitignore` and will never be pushed to your public repository to maintain system security.)*
+*(Note: `.env` is listed inside `.gitignore` and will never be pushed to public repository to maintain system security.)*
 
 ### 5. Initialize the Database & Seed Mock Data
 Before starting the API, run the database initialization script to create tables and load sample supply chain items:
