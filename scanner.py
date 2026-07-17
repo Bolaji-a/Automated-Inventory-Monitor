@@ -51,4 +51,4 @@ def check_low_stock_items():
     # Return the list so we can pass it to our email alerter in the next step
     return low_stock_items
 if __name__ == "__main__":
-    check_low_stock_items();
+    check_low_stock_items()

@@ -64,4 +64,4 @@ def init_db():
     print("Database initialized with 5 warehouse nodes and sample inventory data successfully")
 
 if __name__ == "__main__":
-    init_db();
+    init_db()
